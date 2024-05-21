@@ -1,0 +1,62 @@
+
+
+1. Para qual atributo da tag <input> você atribuiria um tipo de campo de senha?
+
+b. passworda. type
+
+
+2. Qual atributo da tag <img> é usado para fornecer um texto alternativo para a
+imagem?
+
+a. alt
+
+
+3. Como você define um link para abrir em uma nova guia ou janela
+
+d. <a href="url" open>
+
+
+4. O que a tag <table> representa em HTML
+
+a. Links.
+
+5. Qual tag é utilizada para criar formulários em HTML?
+
+c. <submit>
+
+
+6. Qual é a finalidade da tag <img> em HTML?
+
+b. Adicionar imagens
+
+7. Qual tag é usada para criar links em HTML?
+
+b. <a>
+
+
+8. Você está criando uma página para um blog e deseja adicionar um link para uma
+outra postagem. Além disso, você quer incluir uma imagem que sirva como um
+botão de "Leia mais". Qual das alternativas a seguir apresenta a opção correta para
+criar o link e incluir a imagem?
+
+a. <a href="outra-postagem.html"><img src="leia-mais.jpg" alt="Leia
+mais"></a>
+
+9. Você está desenvolvendo um formulário de registro para um site. Este formulário
+precisa coletar o nome, o e-mail e a senha do usuário. Como você configuraria os
+campos de entrada no HTML?
+
+c. <form>
+Nome: <input type="name" name="nome"><br>
+E-mail: <input type="email" name="email"><br>
+Senha: <input type="password" name="senha"><br>
+</form>
+
+10. Você está desenvolvendo o site para uma loja on-line e deseja criar uma seção
+promocional com um banner que, ao ser clicado, leve os usuários para uma página
+de descontos. Além disso, você quer adicionar um texto alternativo à imagem, para
+promover acessibilidade. Qual seria a forma correta de implementar isso em
+HTML?
+
+d. <a href="pagina-descontos.html"><img link="banner-promocional.jpg"
+alt="Descontos Incríveis"></img></a>
